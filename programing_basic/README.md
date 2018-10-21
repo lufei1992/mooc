@@ -8,17 +8,17 @@
 - 程序设计基础通过提炼出程序设计中与基础语言无关的知识，重点关注比如控制结构、算法、解决问题的计算思维等等。
 - 把握所有语言的共性，以不变应万变。
 >
-## [计算机基础](https://github.com/lufeil/mooc/tree/master/programing_basic/1)
+## 1 [计算机基础](https://github.com/lufeil/mooc/tree/master/programing_basic/1)
 >
-## [程序设计方法基础1](https://github.com/lufeil/mooc/tree/master/programing_basic/2)
+## 2 [程序设计方法基础1](https://github.com/lufeil/mooc/tree/master/programing_basic/2)
 >
-## [程序设计方法基础2](https://github.com/lufeil/mooc/tree/master/programing_basic/3)
+## 3 [程序设计方法基础2](https://github.com/lufeil/mooc/tree/master/programing_basic/3)
 >
-## [问题求解与算法设计基础1](https://github.com/lufeil/mooc/tree/master/programing_basic/4)
+## 4 [问题求解与算法设计基础1](https://github.com/lufeil/mooc/tree/master/programing_basic/4)
 >
-## [问题求解与算法设计基础2](https://github.com/lufeil/mooc/tree/master/programing_basic/5)
+## 5 [问题求解与算法设计基础2](https://github.com/lufeil/mooc/tree/master/programing_basic/5)
 >
-## [问题求解与算法设计基础3](https://github.com/lufeil/mooc/tree/master/programing_basic/6)
+## 6 [问题求解与算法设计基础3](https://github.com/lufeil/mooc/tree/master/programing_basic/6)
 >
 
  
